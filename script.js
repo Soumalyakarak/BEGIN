@@ -13,5 +13,5 @@ function greet(name) {
 
 function newAdd(){
     console.log(`new feature added`);
-    console.log(`new feature added 2`);
+    console.log(`new feature added c`);
 }
