@@ -12,7 +12,7 @@ function greet(name) {
   console.log(doubledNumbers);
 
 function newAdd(){
-    console.log(`new feature added`);
+    console.log(`new feature added a`);
     console.log(`new feature added c`);
     console.log(`new feature added c`);
     console.log(`new feature added d`);
