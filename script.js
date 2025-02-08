@@ -10,3 +10,7 @@ function greet(name) {
   const doubledNumbers = numbers.map(number => number * 2);
   
   console.log(doubledNumbers);
+
+function newAdd(){
+    console.log(`new feature added`);
+}
